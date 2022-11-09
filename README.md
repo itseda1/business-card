@@ -1,5 +1,4 @@
-Business card at scrimba
-website: https://edaozturk.netlify.app/
+Business card at scrimba, the website: https://edaozturk.netlify.app/
 
 ## About Scrimba
 
